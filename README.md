@@ -1,6 +1,6 @@
 ## 👋Hi，I am Jehu
 ## 技术栈
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=captain5&show_icons=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=wwyx778&show_icons=true">
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
@@ -17,6 +17,6 @@
 
 <!-- 访客 -->
 <p align="left">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=captain5.captain5" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=wwyx778.wwyx778" alt="visitor badge"/>
 </p>
 <!--
