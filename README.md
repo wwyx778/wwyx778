@@ -1,5 +1,5 @@
 ## 👋Hi，I am Jehu
-## 技术栈
+## 🪄技术栈
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=wwyx778&show_icons=true">
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
@@ -11,9 +11,9 @@
 ![Node](https://img.shields.io/badge/-NodeJS-%23F05032?style=for-the-badge&logo=Node.js&logoColor=%23ffffff)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
 
-## 博客
+## 🏠博客
 
-🏠https://wwyx778.github.io
+https://wwyx778.github.io
 
 <!-- 访客 -->
 <p align="left">
