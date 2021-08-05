@@ -1,4 +1,4 @@
-## 👋 Hi，I am Jehu
+## 👋 Hi，I am Jehu，a Front End Developer
 ## ⚙ 技术栈
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=wwyx778&show_icons=true">
 
