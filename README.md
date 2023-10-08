@@ -17,6 +17,6 @@ https://wwyx778.github.io
 
 <!-- 访客 -->
 <p align="left">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=wwyx778.wwyx778" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=wwyx778.wwyx778" alt="visitor badge"/>
 </p>
 <!--
